@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Catalyst Network",
+      "url": "pool.cx-pool.gq",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Spookypool server 1",
+      "url": "spookypool.nl",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Spookypool server 2",
+      "url": "whonnock.spookypool.nl",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}

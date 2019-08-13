@@ -1,0 +1,27 @@
+{
+  "name": "catalyst-nodes-json",
+  "version": "0.0.2",
+  "description": "json list of public daemons",
+  "main": "catalyst-nodes.json",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/checkForDuplicates.js && node tests/checkAlphaNumeric.js && node tests/checkAlphabetical.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catalystdevelopment/catalyst-nodes-json"
+  },
+  "keywords": [
+    "catalyst",
+    "public",
+    "nodes"
+  ],
+  "author": "The Catalyst Developers",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/catalystdevelopment/catalyst-nodes-json/issues"
+  },
+  "homepage": "https://github.com/catalystdevelopment/catalyst-nodes-json#readme"
+}
