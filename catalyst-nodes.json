@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "Catalyst Network",
-      "url": "pool.cx-pool.gq",
+      "url": "wallet.cx-pool.gq",
       "port": 17291,
       "ssl": false,
       "cache": false
