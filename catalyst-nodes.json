@@ -1,8 +1,15 @@
 {
   "nodes": [
     {
-      "name": "Catalyst Network",
-      "url": "wallet.cx-pool.gq",
+      "name": "Catalyst Network Alpha",
+      "url": "alpha.cryptocatalyst.net",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Catalyst Network Delta",
+      "url": "delta.cryptocatalyst.net",
       "port": 17291,
       "ssl": false,
       "cache": false
