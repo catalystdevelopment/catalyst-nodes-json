@@ -15,15 +15,15 @@
       "cache": false
     },
     {
-      "name": "Spookypool server 1",
-      "url": "spookypool.nl",
+      "name": "Catalyst Network Sigma",
+      "url": "sigma.cryptocatalyst.net",
       "port": 17291,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Stroppyscryptos",
-      "url": "stroppyscryptos.ddns.net",
+      "name": "Spookypool server 1",
+      "url": "spookypool.nl",
       "port": 17291,
       "ssl": false,
       "cache": false
