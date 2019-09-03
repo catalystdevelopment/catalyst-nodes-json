@@ -1,36 +1,29 @@
 {
   "nodes": [
     {
-      "name": "Catalyst Network Alpha",
-      "url": "alpha.cryptocatalyst.net",
+      "name": "Catalyst Network Zeta",
+      "url": "zeta.cryptocatalyst.net",
       "port": 17291,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Catalyst Network Delta",
-      "url": "delta.cryptocatalyst.net",
+      "name": "Catalyst Network Bravo",
+      "url": "bravo.cryptocatalyst.net",
       "port": 17291,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Catalyst Network Sigma",
-      "url": "sigma.cryptocatalyst.net",
-      "port": 17291,
+      "name": "Wellgitu Pool",
+      "url": "node.wellgitu.xyz",
+      "port": 49898,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Spookypool server 1",
-      "url": "spookypool.nl",
-      "port": 17291,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Spookypool server 2",
-      "url": "whonnock.spookypool.nl",
+      "name": "rev.poneytelecom.eu",
+      "url": "163-172-8-20.rev.poneytelecom.eu",
       "port": 17291,
       "ssl": false,
       "cache": false
