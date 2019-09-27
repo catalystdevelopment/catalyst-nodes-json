@@ -27,6 +27,13 @@
       "port": 17291,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "dirtybits",
+      "url": "ec2-3-130-191-255.us-east-2.compute.amazonaws.com",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
