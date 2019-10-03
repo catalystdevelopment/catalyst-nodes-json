@@ -15,15 +15,22 @@
       "cache": false
     },
     {
-      "name": "Wellgitu Pool",
-      "url": "node.wellgitu.xyz",
-      "port": 49898,
+      "name": "node-chukwa-04.cryptocatalyst.net",
+      "url": "node-chukwa-04.cryptocatalyst.net",
+      "port": 17291,
       "ssl": false,
       "cache": false
     },
     {
       "name": "rev.poneytelecom.eu",
       "url": "163-172-8-20.rev.poneytelecom.eu",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "spookypool.nl",
+      "url": "spookypool.nl",
       "port": 17291,
       "ssl": false,
       "cache": false
