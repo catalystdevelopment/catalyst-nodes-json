@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "name": "Catalyst Backup",
+      "url": "188.16.108.224",
+      "port": 18291,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Catalyst Network Zeta",
       "url": "zeta.cryptocatalyst.net",
       "port": 17291,
