@@ -48,6 +48,20 @@
       "port": 17291,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "cx.pubnodes.com",
+      "url": "cx.pubnodes.com",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "USA, Dallas",
+      "url": "88.214.59.133",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
