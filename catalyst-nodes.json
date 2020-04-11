@@ -48,6 +48,20 @@
       "port": 17291,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Amsterdam",
+      "url": "46.30.188.5",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "cx.pubnodes.com",
+      "url": "cx.pubnodes.com",
+      "port": 17291,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
